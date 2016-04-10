@@ -1,70 +1,23 @@
 {
-  "_args": [
-    [
-      "@jshawl/feedback",
-      ""
-    ]
-  ],
-  "_from": "@jshawl/feedback@latest",
-  "_id": "@jshawl/feedback@1.0.0",
-  "_inCache": true,
-  "_installable": true,
-  "_location": "/@jshawl/feedback",
-  "_nodeVersion": "5.8.0",
-  "_npmOperationalInternal": {
-    "host": "packages-16-east.internal.npmjs.com",
-    "tmp": "tmp/feedback-1.0.0.tgz_1459042529338_0.4528659712523222"
-  },
-  "_npmUser": {
-    "email": "jesse@jshawl.com",
-    "name": "jshawl"
-  },
-  "_npmVersion": "3.7.3",
-  "_phantomChildren": {},
-  "_requested": {
-    "name": "@jshawl/feedback",
-    "raw": "@jshawl/feedback",
-    "rawSpec": "",
-    "scope": "@jshawl",
-    "spec": "latest",
-    "type": "tag"
-  },
-  "_requiredBy": [
-    "#USER"
-  ],
-  "_resolved": "https://registry.npmjs.org/@jshawl/feedback/-/feedback-1.0.0.tgz",
-  "_shasum": "e5b098b8369cc9a0763ef1ec86216a353c67f766",
-  "_shrinkwrap": null,
-  "_spec": "@jshawl/feedback",
-  "_where": "",
-  "author": "",
-  "bin": {
-    "feedback": "./index.js"
-  },
-  "dependencies": {
-    "prompt-sync": "^4.0.4",
-    "prompt-sync-history": "^1.0.1"
-  },
+  "name": "feedback",
+  "version": "1.0.0",
   "description": "",
-  "devDependencies": {},
-  "directories": {},
-  "dist": {
-    "shasum": "e5b098b8369cc9a0763ef1ec86216a353c67f766",
-    "tarball": "https://registry.npmjs.org/@jshawl/feedback/-/feedback-1.0.0.tgz"
-  },
-  "license": "ISC",
   "main": "index.js",
-  "maintainers": [
-    {
-      "email": "jesse@jshawl.com",
-      "name": "jshawl"
-    }
-  ],
-  "name": "@jshawl/feedback",
-  "optionalDependencies": {},
-  "readme": "ERROR: No README data found!",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "1.0.0"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ga-dc/feedback.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ga-dc/feedback/issues"
+  },
+  "homepage": "https://github.com/ga-dc/feedback#readme",
+  "dependencies": {
+    "prompt-sync": "^4.0.4",
+    "prompt-sync-history": "^1.0.1"
+  }
 }
