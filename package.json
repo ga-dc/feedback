@@ -1,6 +1,6 @@
 {
   "name": "@jshawl/feedback",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -14,6 +14,9 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ga-dc/feedback/issues"
+  },
+  "bin":{
+    "feedback":"./index.js"
   },
   "homepage": "https://github.com/ga-dc/feedback#readme",
   "dependencies": {
