@@ -23,7 +23,7 @@ module.exports = {
       "Minimal functional code is present",
       "Code lacks proper formatting, includes commented out, non-functional code, or otherwise contains major issues of quality (DRY, naming, etc)",
       "Code is well-formatted, well-named, and contains few style / quality issues",
-      "No major code quality issues, makes use of Ruby best practices appropriately, and follows techniques such as separation of concerns, abstraction, and encapsulation"
+      "No major code quality issues, makes use of JavaScript best practices appropriately, and follows techniques such as separation of concerns, abstraction, and encapsulation"
     ],
     "Creativity and Interface":[
       "Zero or Minimal custom styles or interface. Evidence of scaffolded code",
